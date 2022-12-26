@@ -19,4 +19,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 ### `Resources`
-the movie data base api--[The Movie Databasde](https://developers.themoviedb.org/3/tv/get-popular-tv-shows)
++ the movie data base api--[The Movie Databasde](https://developers.themoviedb.org/3/tv/get-popular-tv-shows)
++ for deployment i integrated with vercel
